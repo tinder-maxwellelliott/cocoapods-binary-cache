@@ -14,8 +14,7 @@ if is_pod_binary_cache_enabled
       }
     },
     prebuild_config: "Release",
-    device_build_enabled: true,
-    xcframework: true
+    device_build_enabled: true
   )
 end
 
